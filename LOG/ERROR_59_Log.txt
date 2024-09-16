@@ -1,0 +1,1229 @@
+{
+    "works": [
+        {
+            "workId": 5865328,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6101865,
+            "otherOffices": 7,
+            "serviceType": 0
+        },
+        {
+            "workId": 5516755,
+            "otherOffices": 53,
+            "serviceType": 0
+        },
+        {
+            "workId": 5724382,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6209238,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5842254,
+            "otherOffices": 22,
+            "serviceType": 0
+        },
+        {
+            "workId": 5350170,
+            "otherOffices": 5,
+            "serviceType": 0
+        },
+        {
+            "workId": 5593119,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5762501,
+            "otherOffices": 3,
+            "serviceType": 0
+        },
+        {
+            "workId": 5724450,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 5299154,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5133821,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2489785,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2437598,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5617964,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 6285814,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6291547,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6274824,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6396685,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6294046,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6222233,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6051081,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 6274859,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6396800,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 6396721,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6274811,
+            "otherOffices": 4,
+            "serviceType": 0
+        },
+        {
+            "workId": 6396705,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6396747,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4279483,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6396821,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 858130,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5723980,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5577019,
+            "otherOffices": 3,
+            "serviceType": 0
+        },
+        {
+            "workId": 4844276,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 6318025,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5614425,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2884867,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4505952,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 1837141,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 5762445,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 3493954,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5617280,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5392088,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 2343859,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 126219,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 65614,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 5813963,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 65603,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 65610,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 2585225,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6165461,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 65602,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 168961,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3041085,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3470514,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 1949426,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 1486160,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4524499,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 2841428,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6105306,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3435026,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 444686,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6395089,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6344101,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3627213,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5256421,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5857534,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 5967586,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 1838135,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5999559,
+            "otherOffices": 3,
+            "serviceType": 0
+        },
+        {
+            "workId": 5226033,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 4204990,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 659728,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4968854,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 3885900,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4263710,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 3464797,
+            "otherOffices": 5,
+            "serviceType": 0
+        },
+        {
+            "workId": 5084932,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2303912,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4265080,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 860429,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3707052,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6200711,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5550202,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2529305,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5961954,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4994277,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5120224,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 1559872,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4924546,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5283370,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2808388,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4201045,
+            "otherOffices": 2,
+            "serviceType": 0
+        },
+        {
+            "workId": 281664,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5719028,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 219599,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3795129,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5786665,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 5897625,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6399640,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4041590,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4615851,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 6343931,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2714320,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2429402,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 39740,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3809903,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 2987116,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3742834,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3627065,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3961383,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 574567,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4588674,
+            "otherOffices": 1,
+            "serviceType": 0
+        },
+        {
+            "workId": 6071221,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 1227616,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 3626977,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 4479500,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 219778,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 1559876,
+            "otherOffices": 0,
+            "serviceType": 0
+        },
+        {
+            "workId": 995591,
+            "otherOffices": 0,
+            "serviceType": 0
+        }
+    ],
+    "paging": {
+        "totalCount": 219,
+        "offset": 0,
+        "limit": 120,
+        "hasNext": true
+    },
+    "paidPublication": {
+        "works": [
+            {
+                "workId": 5865328,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6101865,
+                "otherOffices": 7,
+                "serviceType": 0
+            },
+            {
+                "workId": 5516755,
+                "otherOffices": 53,
+                "serviceType": 0
+            },
+            {
+                "workId": 5724382,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6209238,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5842254,
+                "otherOffices": 22,
+                "serviceType": 0
+            },
+            {
+                "workId": 5350170,
+                "otherOffices": 5,
+                "serviceType": 0
+            },
+            {
+                "workId": 5593119,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5762501,
+                "otherOffices": 3,
+                "serviceType": 0
+            },
+            {
+                "workId": 5724450,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 5299154,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5133821,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2489785,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2437598,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5617964,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 6285814,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6291547,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6274824,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6396685,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6294046,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6222233,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6051081,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 6274859,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6396800,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 6396721,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6274811,
+                "otherOffices": 4,
+                "serviceType": 0
+            },
+            {
+                "workId": 6396705,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6396747,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4279483,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6396821,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 858130,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5723980,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5577019,
+                "otherOffices": 3,
+                "serviceType": 0
+            },
+            {
+                "workId": 4844276,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workI\nd": 6318025,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5614425,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2884867,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4505952,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 1837141,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 5762445,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 3493954,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5617280,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5392088,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 2343859,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 126219,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 65614,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 5813963,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 65603,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 65610,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 2585225,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6165461,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 65602,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 168961,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3041085,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3470514,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 1949426,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 1486160,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4524499,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 2841428,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6105306,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3435026,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 444686,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6395089,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6344101,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3627213,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5256421,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5857534,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 5967586,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 1838135,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5999559,
+                "otherOffices": 3,
+                "serviceType": 0
+            },
+            {
+                "workId": 5226033,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 4204990,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 659728,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4968854,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 3885900,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4263710,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 3464797,
+                "otherOffices": 5,
+                "serviceType": 0
+            },
+            {
+                "workId": 5084932,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2303912,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4265080,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 860429,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3707052,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6200711,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5550202,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2529305,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5961954,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4994277,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5120224,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 1559872,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4924546,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5283370,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2808388,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4201045,
+                "otherOffices": 2,
+                "serviceType": 0
+            },
+            {
+                "workId": 281664,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5719028,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 219599,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3795129,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5786665,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 5897625,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6399640,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4041590,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4615851,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 6343931,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2714320,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2429402,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 39740,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3809903,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 2987116,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3742834,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3627065,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3961383,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 574567,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4588674,
+                "otherOffices": 1,
+                "serviceType": 0
+            },
+            {
+                "workId": 6071221,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 1227616,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 3626977,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 4479500,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 219778,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 1559876,
+                "otherOffices": 0,
+                "serviceType": 0
+            },
+            {
+                "workId": 995591,
+                "otherOffices": 0,
+                "serviceType": 0
+            }
+        ],
+        "paging": {
+            "totalCount": 219,
+            "offset": 0,
+            "limit": 120,
+            "hasNext": true
+        }
+    },
+    "freePublication": {
+        "works": [],
+        "paging": {
+            "totalCount": 0,
+            "offset": 0,
+            "limit": 0,
+            "hasNext": false
+        }
+    }
+}
